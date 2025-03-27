@@ -279,8 +279,8 @@ function generateHTML() {
     </div>
     <div class="footer">
       <span>© ${new Date().getFullYear()} 域名监控</span> | 
-      <a href="https://github.com/your-repo" target="_blank" rel="noopener noreferrer">GitHub</a> | 
-      <a href="https://your-website.com" target="_blank" rel="noopener noreferrer">点点star🌟</a>
+      <a href="https://github.com/EricDasha/domain-check" target="_blank" rel="noopener noreferrer">GitHub</a> | 
+      <a href="https://github.com/EricDasha/domain-check" target="_blank" rel="noopener noreferrer">点点star🌟</a>
     </div>
   </body>
   </html>
