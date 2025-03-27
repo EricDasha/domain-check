@@ -11,15 +11,15 @@ const CONFIG = {
       domain: "example.comt", 
       registrationDate: "2022-2-22", 
       expirationDate: "2022-2-22", 
-      system: "1145.com",
+      system: "example.com",
       systemURL: "https://1145.com/" 
     },
     { 
       domain: "example.com", 
       registrationDate: "2022-2-22", 
       expirationDate: "2022-2-22", 
-      system: "1145.com",
-      systemURL: "https://1145.com" 
+      system: "example.com",
+      systemURL: "https://example.com" 
     }
   ]
 };
